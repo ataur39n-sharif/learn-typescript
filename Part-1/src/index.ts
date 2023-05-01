@@ -51,3 +51,4 @@ let account = new Account(100)
 // account.balance = 100
 
 console.log(account.balance);
+
